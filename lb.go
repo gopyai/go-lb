@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/gopyai/ws2"
+	"github.com/gopyai/go-ws"
 )
 
 var (
